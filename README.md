@@ -1,5 +1,5 @@
-# Curriculo-Carlos
-Currículo
+!(https://github.com/SilvaCP/Curriculo-Carlos/blob/Master/Curriculo-Carlos/img/foto-1.png)
+Carlos pereira da silva
 ## Contatos
 E-mail:&nbsp;pereiracarlos1047@gmail.com <br>
 Fone:&nbsp;(84) 99641-3785<br>
