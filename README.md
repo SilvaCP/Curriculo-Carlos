@@ -1,6 +1,5 @@
 
-![f3~2](https://user-images.githubusercontent.com/79268743/170640529-d4cd330d-40e1-4633-8251-e71741022fe0.jpg)<br>
-<div align="center" >
+<div align="left" >
   <img src="https://user-images.githubusercontent.com/79268743/170640529-d4cd330d-40e1-4633-8251-e71741022fe0.jpg"height="160" width="119"/>
 </div>
 Carlos pereira da silva
