@@ -1,4 +1,4 @@
-!(https://github.com/SilvaCP/Curriculo-Carlos/blob/Master/Curriculo-Carlos/img/foto-1.png)
+!(https://github.com/SilvaCP/Curriculo-Carlos/blob/Master/Curriculo-Carlos/img/foto-1.png)<br>
 Carlos pereira da silva
 ## Contatos
 E-mail:&nbsp;pereiracarlos1047@gmail.com <br>
